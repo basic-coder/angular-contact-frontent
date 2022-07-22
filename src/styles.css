@@ -4,3 +4,13 @@
     /* font-family: 'Nunito', sans-serif; */
     font-family: 'Poppins', sans-serif;
 }
+
+.contact-img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contact-img-details{
+    width: 150px;
+    border-radius: 50%
+}

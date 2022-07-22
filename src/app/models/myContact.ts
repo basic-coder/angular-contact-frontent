@@ -1,4 +1,4 @@
-export class MyComponent{
+export class MyContact{
     id?:string;
     name!:string;
     email!:string;
